@@ -1,11 +1,9 @@
 // Song List System
 // Usage ; call method genCatFrames(x, y) to generate songs divs
 // x => index of category in categories.JSON
-// y => which ID (position) inside webpage (5 max)
+// y => which row/ID (position) inside webpage (5 max)
 // #selec element(s) must be present
 // Last Updated: 16.02.2021
-
-// TODO: Song path bind to player
 
 "use strict";
 
